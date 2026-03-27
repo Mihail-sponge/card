@@ -1,0 +1,49 @@
+.header {
+background-color: rgb(129, 201, 201);
+border: 5px solid; color: darkblue;
+border-radius: 50px;
+}
+
+.header__title {
+    font-family: cursive;
+    font-size: 50px;
+    color: gold;
+    margin-left: 35%;
+}
+
+.header__link {
+    color: black;
+    font-size: 30px;
+    margin-left: 100px;
+}
+
+body {
+    background-color: dimgray;
+}
+
+.main {
+    height: 30%;
+    background-color: mediumvioletred;
+    border: 5px dashed; color:gold;
+    border-radius: 30px;
+}
+
+.main__card {
+    width: 30%;
+    height: 40%;
+    background-color: white;
+    color: black;
+    border: 5px solid; color: black;
+    border-radius: 10%;
+}
+
+.main__card--title {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 15px;
+    margin-left: 25%;
+    margin-top: 15px;
+}
+
+.main__card--img {
+    height: 45%;
+}
